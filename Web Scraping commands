@@ -1,0 +1,12 @@
+pip install beautifulsoup4
+
+pip install lxml
+
+pip install html5lib
+
+pip install requests
+
+
+You can override IDE code style settings with settings from EditorConfig (https://editorconfig.org/).
+To use EditorConfig settings, you must install and enable the EditorConfig plugin. To configure the style in EditorConfig, open settings (Ctrl+Alt+S), navigate to Editor | Code Style and select the Enable EditorConfig support checkbox.
+To export the current IDE code style settings into the .editconfig file, click Export.

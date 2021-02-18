@@ -1,0 +1,50 @@
+2020-12-26 11:57:25,814:DEBUG:Add: 20 + 10 = 30
+2020-12-26 11:57:25,815:DEBUG:Sub: 20 - 10 = 10
+2020-12-26 11:57:25,815:DEBUG:Mul: 20 * 10 = 200
+2020-12-26 11:57:25,815:DEBUG:Div: 20 / 10 = 2.0
+DEBUG:__main__:Add: 20 + 10 = 30
+DEBUG:__main__:Sub: 20 - 10 = 10
+DEBUG:__main__:Mul: 20 * 10 = 200
+DEBUG:__main__:Div: 20 / 10 = 2.0
+ERROR:__main__:Tried to divide by zero
+ERROR:__main__:Tried to divide by zero
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/Hp/Documents/Python Advanced Programmig/Logging/log_sample.py", line 48, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/Hp/Documents/Python Advanced Programmig/Logging/log_sample.py", line 51, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/Hp/Documents/Python Advanced Programmig/Logging/log_sample.py", line 52, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/Hp/Documents/Python Advanced Programmig/Logging/log_sample.py", line 53, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/Hp/Documents/Python Advanced Programmig/Logging/log_sample.py", line 53, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/Hp/Documents/Python Advanced Programmig/Logging/log_sample.py", line 51, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+ERROR:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:/Users/Hp/Documents/Python Advanced Programmig/Logging/log_sample.py", line 52, in divide
+    result = x / y
+ZeroDivisionError: division by zero
+ERROR:log_sample:Tried to divide by zero
+Traceback (most recent call last):
+  File "C:\Users\Hp\Documents\Python Advanced Programmig\Logging\log_sample.py", line 57, in divide
+    result = x / y
+ZeroDivisionError: division by zero
